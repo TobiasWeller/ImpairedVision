@@ -8,7 +8,7 @@ python3 main.py
 ```
 The script defaults to using an attached Picamera. If you have a USB webcam instead, add --usbcam to the end of the command:
 ```
-python3 main.py --usbcam
+python3 main.py --usbcamc
 ```
 
 Once the script initializes (which can take up to 30 seconds), you will see a window showing a live view from your camera. Common objects inside the view will be identified and have a rectangle drawn around them. 

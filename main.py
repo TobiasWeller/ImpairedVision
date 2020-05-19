@@ -1,7 +1,7 @@
 # Import packages
 import os
 import cv2
-import numpy as np
+import numpy as nps
 from picamera.array import PiRGBArray
 from picamera import PiCamera
 import tensorflow as tf
