@@ -1,4 +1,4 @@
-# Tutorial to set up TensorFlow Object Detection API on the Raspberry Pi
+# Set up Low Vision Assistive Device
 The Python script in this repository, main.py, detects objects in live feeds from a Picamera or USB webcam. The script loads the model into memory, initializes the Picamera, and then begins performing object detection on each video frame from the Picamera. 
 
 
